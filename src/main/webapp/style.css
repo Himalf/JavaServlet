@@ -1,0 +1,23 @@
+@charset "UTF-8";
+div {
+display:flex;
+flex-direction:column;
+	justify-content: center;
+	align-items: center;
+	width: full;
+	
+}
+.box{
+width: fit;
+padding:20px;
+height:fit;
+border:2px solid gray;
+border-radius: 20px;
+
+
+}
+button{
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius:5px;
+}
